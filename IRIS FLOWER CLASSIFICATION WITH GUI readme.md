@@ -194,4 +194,5 @@ We trained a K-Nearest Neighbors (KNN) model, which turned out to be a great fit
 
 The best part was turning the model into something anyone can use — a simple GUI built with Tkinter. Now, instead of running Python code, a user can just type in the flower’s measurements, click a button, and instantly get the prediction.
 
+
 Overall, this project shows the complete journey — from raw data to an easy-to-use application. It’s accurate, interactive, and could be extended or improved further, but even as it stands, it’s a solid example of taking machine learning beyond theory and making it work in the real world.
