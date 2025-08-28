@@ -18,21 +18,17 @@ This project uses a machine learning model to classify Iris flowers into three s
 
 Iris Classification/
 
-│
+iris\_gui\_app.py           # Tkinter GUI script
 
-├── iris\_gui\_app.py           # Tkinter GUI script
+iris\_model.pkl            # Trained KNN model
 
-├── iris\_model.pkl            # Trained KNN model
+scaler.pkl                # StandardScaler used on features
 
-├── scaler.pkl                # StandardScaler used on features
+iris\_dataset.csv          # Cleaned dataset (optional)
 
-├── iris\_dataset.csv          # Cleaned dataset (optional)
+README.md                 # Project documentation
 
-├── README.md                 # Project documentation
-
-├── Screenshots/              # GUI screenshots
-
-└── Iris Classification with Real-time Prediction GUI    # Full ML pipeline notebook
+Iris Classification with Real-time Prediction GUI    # Full ML pipeline notebook
 
 ```
 
@@ -196,3 +192,4 @@ The best part was turning the model into something anyone can use — a simple G
 
 
 Overall, this project shows the complete journey — from raw data to an easy-to-use application. It’s accurate, interactive, and could be extended or improved further, but even as it stands, it’s a solid example of taking machine learning beyond theory and making it work in the real world.
+
